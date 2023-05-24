@@ -30,3 +30,5 @@ const combinations = countCombinations(targetAmount, denominations);
 console.log(
   `Number of combinations to create ${targetAmount} is: ${combinations}`
 );
+
+//Number of combinations to create 350 is: 23642
